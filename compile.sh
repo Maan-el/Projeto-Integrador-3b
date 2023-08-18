@@ -1,1 +1,1 @@
-gcc --Wall -Ẃextra -fanalyzer main.c
+gcc -Wall -Ẃextra -fanalyzer main.c
